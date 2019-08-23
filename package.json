@@ -1,7 +1,6 @@
 {
   "name": "library",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "dependencies": {
     "ejs": "^2.6.2",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilcm/paatshalaAss2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akhilcm/paatshalaAss2/issues"
+  },
+  "homepage": "https://github.com/akhilcm/paatshalaAss2#readme",
+  "description": ""
 }
